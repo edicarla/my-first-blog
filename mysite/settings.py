@@ -25,7 +25,7 @@ SECRET_KEY = 'c$=a@vr7-c@2tlgc1t(91=h677#uojxjmk*v(v^g#nj^%0j%lg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['edicarla.pythonanywhere.com']
 
 
 # Application definition
